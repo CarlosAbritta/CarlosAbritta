@@ -5,7 +5,7 @@ Sou **Carlos Eduardo Abritta**, um estudante apaixonado por tecnologia e cultura
 ## Sobre Mim ℹ️
 
 - 🎓 Estudante de Engenharia da Computação na UEMG
-- 🌱 Atualmente aprendendo Python, Django, JavaScript, HTML5 e CSS3
+- 🌱 Atualmente aprendendo Python, Django, React
 - 🎯 Objetivos: Contribuir para projetos de código aberto e desenvolver habilidades em desenvolvimento web
 - 📚 Interessado em: Animes, tecnologia, jogos
 
