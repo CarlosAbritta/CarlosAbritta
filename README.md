@@ -18,7 +18,7 @@ Sou **Carlos Eduardo Abritta**, um estudante apaixonado por tecnologia e cultura
 ## Conecte-se Comigo 📫
 
 - [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-abritta-24599a303/)
-
+- [Portfólio](carlos-abritta-github-io.vercel.app)
 ---
 
 Obrigado pela visita! Sinta-se à vontade para explorar meus repositórios e entrar em contato.
