@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Carlos+Eduardo+Abritta+Mussa+%F0%9F%91%8B;Estudante+de+Sistemas+para+Internet+-+UTFPR;Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o" alt="Animação de digitação">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Carlos+Eduardo+Abritta+Mussa+%F0%9F%91%8B;Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o" alt="Animação de digitação">
   </a>
 </div>
 
@@ -18,7 +18,7 @@
 ## 👨‍💻 Sobre Mim
 
 <p align="left">
-  Sou **Carlos Eduardo Abritta Mussa**, um estudante de **Tecnologia em Sistemas para Internet na UTFPR**. Sou apaixonado por resolver problemas complexos, seja através do desenvolvimento de software ou da programação competitiva (Maratona SBC, OBI).
+  Sou **Carlos Eduardo Abritta Mussa**, um desenvolvedor e estudante apaixonado por tecnologia. Sou focado em resolver problemas complexos, seja através do desenvolvimento de software ou da programação competitiva (Maratona SBC, OBI).
 <br><br>
   Embora meu hobby principal seja a **programação competitiva com C++**, meu foco profissional está no desenvolvimento back-end, onde estou constantemente aprimorando minhas habilidades.
 <br><br>
