@@ -18,13 +18,13 @@
 ## 👨‍💻 Sobre Mim
 
 <p align="left">
-  Sou *Carlos Eduardo Abritta Mussa*, um desenvolvedor e estudante apaixonado por tecnologia. Sou focado em resolver problemas complexos, seja através do desenvolvimento de software ou da programação competitiva (Maratona SBC, OBI).
+  Sou Carlos Eduardo Abritta Mussa, um desenvolvedor e estudante apaixonado por tecnologia. Sou focado em resolver problemas complexos, seja através do desenvolvimento de software ou da programação competitiva (Maratona SBC, OBI).
 <br><br>
   Embora meu hobby principal seja a programação competitiva com C++, meu foco profissional está no desenvolvimento back-end, onde estou constantemente aprimorando minhas habilidades.
 <br><br>
   🌱 Atualmente focado em: JS/TS, NODE, e React
   <br>
-  🎯 Buscando: Minha primeira oportunidade como *Estagiário ou Desenvolvedor Júnior*
+  🎯 Buscando: Minha primeira oportunidade como Estagiário ou Desenvolvedor Júnior
 </p>
 
 ## 📊 Minhas Estatísticas do GitHub 
